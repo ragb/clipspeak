@@ -24,4 +24,4 @@ Clipspeak - это дополнение, которое позволяет NVDA 
 
 
 
-[1]: https://github.com/ruifontes/clipspeak/releases/download/2025.06.13/clipspeak-2024.06.11.nvda-addon
+[1]: https://github.com/ragb/clipspeak/releases/download/2026.07.29/clipspeak-2026.07.29.nvda-addon

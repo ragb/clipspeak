@@ -23,4 +23,4 @@ Clipspeak 是一个插件，它允许 NVDA 自动报告剪贴板操作（例如�
 如果这些不是您的 Windows 版本上执行这些任务的常用快捷方式，您将需要在输入手势设置中的 Clipspeak 类别下中重新映射这些手势。
 
 
-[1]: https://github.com/ruifontes/clipspeak/releases/download/2025.06.13/clipspeak-2024.06.11.nvda-addon
+[1]: https://github.com/ragb/clipspeak/releases/download/2026.07.29/clipspeak-2026.07.29.nvda-addon

@@ -24,4 +24,4 @@ Clipspeak — це додаток, який дозволяє NVDA автомат
 Якщо ці комбінації не використовуються для виконання таких завдань у вашій версії Windows, вам доведеться їх перепризначити у конфігурації жестів вводу, категорія «Буфер обміну».
 
 
-[1]: https://github.com/ruifontes/clipspeak/releases/download/2025.06.13/clipspeak-2025.06.13.nvda-addon
+[1]: https://github.com/ragb/clipspeak/releases/download/2026.07.29/clipspeak-2026.07.29.nvda-addon

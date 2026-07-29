@@ -22,4 +22,4 @@ Ve výchozím nastavení jsou gesta Clipspeaku mapována na gesta běžně použ
 Pokud se nejedná o zkratky běžně používané pro tyto úlohy ve vaší verzi systému Windows, budete muset tato gesta přemapovat v konfiguraci vstupních gest v kategorii Schránka.
 
 
-[1]: https://github.com/ruifontes/clipspeak/releases/download/2025.06.13/clipspeak-2025.06.13.nvda-addon
+[1]: https://github.com/ragb/clipspeak/releases/download/2026.07.29/clipspeak-2026.07.29.nvda-addon

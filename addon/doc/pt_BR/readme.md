@@ -1,7 +1,7 @@
 # Clipspeak
 
 ## Informações
-* Author: Rui Fontes, Ângelo Abrantes, Abel Passos Júnior e colaboração de Noelia Ruiz Martínez, baseados no trabalho de Damien Sykes-Lindley	
+* Author: Rui Fontes, Ângelo Abrantes, Abel Passos Júnior e colaboração de Noelia Ruiz Martínez, baseados no trabalho de Damien Sykes-Lindley
 * actualizado em 21/03/2024
 * Descarregar a [versão estável][1]
 * Compatibilidade: NVDA versão 2019.3 e seguintes
@@ -22,4 +22,4 @@ Pode escolher entre Anunciar apenas copiar/cortar/colar ou também o que está a
 Se esses não forem os atalhos comumente usados  para essas tarefas em sua versão do Windows, você precisará remapear esses gestos na configuração de gestos de entrada na categoria Área de transferência.
 
 
-[1]: https://github.com/ruifontes/clipspeak/releases/download/2025.06.13/clipspeak-2025.06.13.nvda-addon
+[1]: https://github.com/ragb/clipspeak/releases/download/2026.07.29/clipspeak-2026.07.29.nvda-addon
