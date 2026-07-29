@@ -1,12 +1,3 @@
-Set compatibility to NVDA 2026.1;
+# 2026.07.29
 
-Allow announcements on LibreOffice Calc;
-
-Corrected features in terminal windows;
-
-Updated finnish and spanish translations;
-
-Added  simplified chinese translation.
-
-
-
+* Set compatibility with NVDA 2026.2.
