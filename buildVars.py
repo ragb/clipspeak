@@ -23,10 +23,10 @@ addon_info = AddonInfo(
 	# Translators: Long description to be shown for this add-on on add-on information from add-on store
 	addon_description = _("""Add-on to speak clipboard information."""),
 	# version
-	addon_version = "2026.07.29",
+	addon_version = "2026.08.24",
 	# Brief changelog for this version
 	# Translators: what's new content for the add-on version to be shown in the add-on store
-	addon_changelog = _("""Set compatibility with NVDA 2026.2."""),
+	addon_changelog = _("""Restored the interface translations, which were missing from the previous release."""),
 	# Author(s)
 	addon_author = "Rui Fontes, Ângelo Abrantes, Abel Passos Júnior and colaboration of Noelia Ruiz Martínez, based on the work of Damien Sykes-Lindley",
 	# URL for the add-on documentation support
