@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en">
+<file id="readme.md" original="https://raw.githubusercontent.com/ragb/clipspeak/9ae887c2911c21c7bce58ba7f5a721e1be00870c/readme.md">
+<skeleton>
+# $(ID:0218f05f-aca8-4217-8ed5-54b246a8901c)
+
+## $(ID:5b73c311-211e-4957-b899-1b1047ff2615)
+
+$(ID:86bd9718-9648-4607-92f2-800e0c5eb56a)
+
+$(ID:2d6fc5ca-658a-4642-8cf3-4515ca7ddb0d)
+
+$(ID:5446ef5b-b1ef-4ad2-a395-6c5c0e1e2fe2)
+
+
+
+## $(ID:2aabcb6c-e057-4f58-8fef-08dad7870746)
+
+* $(ID:cf342059-f097-4ddd-8a11-18d94c725cea)
+* $(ID:7fe336a2-aa1d-4b86-a640-e85f79256a29)
+* $(ID:9f91d961-6d12-4232-97a0-efec151369fd)
+
+
+
+## $(ID:bbe0c1ef-a97b-49ac-909e-2b9b4e189e2d)
+
+$(ID:6e774a8e-060f-4843-b07b-64b89436067b)
+$(ID:397e0c18-734a-4826-ae93-df529107f197)
+$(ID:e02cd788-6a14-4497-a0af-15d8018db996)
+$(ID:7229a5af-06ba-41f9-8ddc-857e3e1d2f10)
+
+* $(ID:c88008be-d879-438a-8e9f-f9bdc80cf4a2)
+* $(ID:ab1c0335-25cb-4b4a-b53d-edb63529229c)
+* $(ID:270a03d6-e48f-4699-b7f8-0b8d6dded4ee)
+* $(ID:ced3f16f-8f7e-4def-8d80-21614f47dea0)
+* $(ID:615261c3-8d52-4f0c-8566-9066714c7cec)
+* $(ID:b039d70e-e381-444b-9b38-29aab0e4b315)
+
+$(ID:2844d15c-25df-4620-93f1-8b51936d9b64)
+
+</skeleton>
+<unit id="0218f05f-aca8-4217-8ed5-54b246a8901c">
+<notes>
+<note appliesTo="source">line: 2</note>
+<note appliesTo="source">prefix: # </note>
+</notes>
+<segment>
+<source>Clipspeak</source>
+</segment>
+</unit>
+<unit id="5b73c311-211e-4957-b899-1b1047ff2615">
+<notes>
+<note appliesTo="source">line: 4</note>
+<note appliesTo="source">prefix: ## </note>
+</notes>
+<segment>
+<source>In loving memory of Rui Fontes</source>
+</segment>
+</unit>
+<unit id="86bd9718-9648-4607-92f2-800e0c5eb56a">
+<notes>
+<note appliesTo="source">line: 6</note>
+</notes>
+<segment>
+<source>This add-on is maintained and improved in loving memory of Rui Fontes, who passed away on 11 July 2026.</source>
+</segment>
+</unit>
+<unit id="2d6fc5ca-658a-4642-8cf3-4515ca7ddb0d">
+<notes>
+<note appliesTo="source">line: 8</note>
+</notes>
+<segment>
+<source>Rui devoted much of his life to making technology accessible to blind and visually impaired people, and his generosity, skill, and dedication touched countless users and fellow developers in the NVDA community. This project is carried forward in his honour, and with heartfelt gratitude for everything he gave. May his work keep opening doors for those who need it.</source>
+</segment>
+</unit>
+<unit id="5446ef5b-b1ef-4ad2-a395-6c5c0e1e2fe2">
+<notes>
+<note appliesTo="source">line: 10</note>
+</notes>
+<segment>
+<source>---</source>
+</segment>
+</unit>
+<unit id="2aabcb6c-e057-4f58-8fef-08dad7870746">
+<notes>
+<note appliesTo="source">line: 14</note>
+<note appliesTo="source">prefix: ## </note>
+</notes>
+<segment>
+<source>Information</source>
+</segment>
+</unit>
+<unit id="cf342059-f097-4ddd-8a11-18d94c725cea">
+<notes>
+<note appliesTo="source">line: 16</note>
+<note appliesTo="source">prefix: * </note>
+</notes>
+<segment>
+<source>Authors: Rui Fontes, Ângelo Abrantes, Abel Passos Júnior and collaboration of Noelia Ruiz Martínez, based on the work of Damien Sykes-Lindley</source>
+</segment>
+</unit>
+<unit id="7fe336a2-aa1d-4b86-a640-e85f79256a29">
+<notes>
+<note appliesTo="source">line: 17</note>
+<note appliesTo="source">prefix: * </note>
+</notes>
+<segment>
+<source>Minimum NVDA version: 2019.3</source>
+</segment>
+</unit>
+<unit id="9f91d961-6d12-4232-97a0-efec151369fd">
+<notes>
+<note appliesTo="source">line: 18</note>
+<note appliesTo="source">prefix: * </note>
+</notes>
+<segment>
+<source>Last tested NVDA version: 2026.2</source>
+</segment>
+</unit>
+<unit id="bbe0c1ef-a97b-49ac-909e-2b9b4e189e2d">
+<notes>
+<note appliesTo="source">line: 22</note>
+<note appliesTo="source">prefix: ## </note>
+</notes>
+<segment>
+<source>Presentation</source>
+</segment>
+</unit>
+<unit id="6e774a8e-060f-4843-b07b-64b89436067b">
+<notes>
+<note appliesTo="source">line: 24</note>
+</notes>
+<segment>
+<source>Clipspeak is an addon that allows NVDA to automatically announce clipboard operations (such as cut, copy and paste), along with other common editing operations such as undo and redo.</source>
+</segment>
+</unit>
+<unit id="397e0c18-734a-4826-ae93-df529107f197">
+<notes>
+<note appliesTo="source">line: 25</note>
+</notes>
+<segment>
+<source>In order to prevent announcement in inappropriate situations, Clipspeak performs checks on the control and the clipboard in order to make an informed decision as to whether such an announcement is necessary.</source>
+</segment>
+</unit>
+<unit id="e02cd788-6a14-4497-a0af-15d8018db996">
+<notes>
+<note appliesTo="source">line: 26</note>
+</notes>
+<segment>
+<source>You can choose between only announcing copy/cut/paste or also whats is being copied/cutted/pasted on NVDA, configurations, clipspeak.</source>
+</segment>
+</unit>
+<unit id="7229a5af-06ba-41f9-8ddc-857e3e1d2f10">
+<notes>
+<note appliesTo="source">line: 27</note>
+</notes>
+<segment>
+<source>By default, Clipspeak's gestures are mapped to those commonly used by English versions of Windows:</source>
+</segment>
+</unit>
+<unit id="c88008be-d879-438a-8e9f-f9bdc80cf4a2">
+<notes>
+<note appliesTo="source">line: 29</note>
+<note appliesTo="source">prefix: * </note>
+</notes>
+<segment>
+<source>CTRL+Z: Undo</source>
+</segment>
+</unit>
+<unit id="ab1c0335-25cb-4b4a-b53d-edb63529229c">
+<notes>
+<note appliesTo="source">line: 30</note>
+<note appliesTo="source">prefix: * </note>
+</notes>
+<segment>
+<source>CTRL+Y: Redo</source>
+</segment>
+</unit>
+<unit id="270a03d6-e48f-4699-b7f8-0b8d6dded4ee">
+<notes>
+<note appliesTo="source">line: 31</note>
+<note appliesTo="source">prefix: * </note>
+</notes>
+<segment>
+<source>CTRL+X: Cut</source>
+</segment>
+</unit>
+<unit id="ced3f16f-8f7e-4def-8d80-21614f47dea0">
+<notes>
+<note appliesTo="source">line: 32</note>
+<note appliesTo="source">prefix: * </note>
+</notes>
+<segment>
+<source>CTRL+C: Copy</source>
+</segment>
+</unit>
+<unit id="615261c3-8d52-4f0c-8566-9066714c7cec">
+<notes>
+<note appliesTo="source">line: 33</note>
+<note appliesTo="source">prefix: * </note>
+</notes>
+<segment>
+<source>CTRL+SHIFT+C: Copy file path (Only in Windows 11)</source>
+</segment>
+</unit>
+<unit id="b039d70e-e381-444b-9b38-29aab0e4b315">
+<notes>
+<note appliesTo="source">line: 34</note>
+<note appliesTo="source">prefix: * </note>
+</notes>
+<segment>
+<source>CTRL+V: Paste</source>
+</segment>
+</unit>
+<unit id="2844d15c-25df-4620-93f1-8b51936d9b64">
+<notes>
+<note appliesTo="source">line: 36</note>
+</notes>
+<segment>
+<source>If these are not the shortcuts commonly used for these tasks on your version of Windows, you will need to remap these gestures in the input gestures configuration under the Clipboard category.</source>
+</segment>
+</unit>
+</file>
+</xliff>
